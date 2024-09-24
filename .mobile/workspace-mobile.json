@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "1516a0fb6c238cf1",
+    "id": "e523cd18bb27296c",
     "type": "split",
     "children": [
       {
-        "id": "621283a0e037b059",
+        "id": "855a6fa0f0842659",
         "type": "tabs",
         "children": [
           {
-            "id": "01afee4761d818fe",
+            "id": "8ca20f5ac271dd47",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -21,11 +21,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "73ce46472ca90d80",
+    "id": "65cec71723f1ddf0",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "6544dd46061590d6",
+        "id": "716cb44621e764a4",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -35,7 +35,7 @@
         }
       },
       {
-        "id": "9df4ecbb162b2d8a",
+        "id": "0dd208063f264b88",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -50,7 +50,7 @@
         }
       },
       {
-        "id": "c6799c79f49ca25d",
+        "id": "23d3c5bf2d6d9644",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "70f18a36ff944594",
+        "id": "0347e875a1040ad4",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -72,11 +72,11 @@
     "currentTab": 0
   },
   "right": {
-    "id": "2d96c466dd650ebf",
+    "id": "340aa173f90394f9",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "10392afb2b4cfd97",
+        "id": "d249882465809675",
         "type": "leaf",
         "state": {
           "type": "backlink",
@@ -92,7 +92,7 @@
         }
       },
       {
-        "id": "3168e85bd6849d9a",
+        "id": "c0280552c0bf0600",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
@@ -103,7 +103,7 @@
         }
       },
       {
-        "id": "110c7f87697038fe",
+        "id": "5cb2cbecdfeab7ad",
         "type": "leaf",
         "state": {
           "type": "outline",
@@ -119,10 +119,9 @@
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "01afee4761d818fe",
+  "active": "8ca20f5ac271dd47",
   "lastOpenFiles": []
 }

@@ -1,1 +1,13 @@
-{}
+{
+  "accentColor": "",
+  "theme": "system",
+  "cssTheme": "Minimal",
+  "enabledCssSnippets": [
+    "Custom style",
+    "Multi columns",
+    "tailwind",
+    "Pinned Pages",
+    "banners"
+  ],
+  "baseFontSize": 16
+}
