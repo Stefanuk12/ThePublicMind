@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
-                "mode": "source",
+                "file": "Learning/AI Fundamentals/Notes/Regression model.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
+                "file": "Learning/AI Fundamentals/Notes/Regression model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
+                "file": "Learning/AI Fundamentals/Notes/Regression model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md"
+                "file": "Learning/AI Fundamentals/Notes/Regression model.md"
               }
             }
+          },
+          {
+            "id": "1a107f84aee08484",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -153,32 +162,32 @@
   },
   "active": "a2291a3c1552fdc8",
   "lastOpenFiles": [
-    "Learning/AI Fundamentals/Notes/Privacy & Security.md",
-    "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
-    "Learning/AI Fundamentals/Notes/Accountability.md",
-    "Learning/AI Fundamentals/Notes/Principles of Responsible AI.md",
-    "Learning/AI Fundamentals/Home.md",
-    "Learning/AI Fundamentals/Notes/Classification.md",
-    "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
-    "Learning/AI Fundamentals/Notes/Computer Vision.md",
     "Learning/AI Fundamentals/Notes/Unsupervised ML.md",
     "Learning/AI Fundamentals/Notes/Transparency.md",
     "Learning/AI Fundamentals/Notes/Supervised ML.md",
+    "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
     "Learning/AI Fundamentals/Notes/Regression model.md",
+    "Learning/AI Fundamentals/Notes/Principles of Responsible AI.md",
     "Learning/AI Fundamentals/Notes/Natural Language Processing.md",
-    "Learning/AI Fundamentals/Notes/Inclusiveness.md",
-    "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
     "Learning/AI Fundamentals/Notes/Machine Learning.md",
+    "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
+    "Learning/AI Fundamentals/Notes/Inclusiveness.md",
     "Learning/AI Fundamentals/Notes/Fairness.md",
+    "Learning/AI Fundamentals/Notes/Computer Vision.md",
     "Learning/AI Fundamentals/Notes/Clustering model.md",
     "Learning/AI Fundamentals/Notes/Clustering.md",
+    "Learning/AI Fundamentals/Notes/Classification.md",
+    "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
+    "Learning/AI Fundamentals/Notes/Accountability.md",
+    "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
+    "Learning/AI Fundamentals/Notes/Privacy & Security.md",
+    "Learning/AI Fundamentals/Home.md",
     "Notes/Anomaly Detection.md",
     "Notes/Unsupervised ML.md",
     "Notes/Supervised ML.md",
     "Notes/Regression model.md",
     "Notes/Principles of Responsible AI.md",
     "Notes/Natural Language Processing.md",
-    "Notes/ML Types - Clustering.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
