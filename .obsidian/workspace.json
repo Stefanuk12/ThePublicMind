@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/AI Fundamentals/Home.md",
+                "file": "Learning/AI Fundamentals/Notes/Privacy & Security.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/AI Fundamentals/Home.md",
+                "file": "Learning/AI Fundamentals/Notes/Privacy & Security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/AI Fundamentals/Home.md",
+                "file": "Learning/AI Fundamentals/Notes/Privacy & Security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/AI Fundamentals/Home.md"
+                "file": "Learning/AI Fundamentals/Notes/Privacy & Security.md"
               }
             }
           }
@@ -153,17 +153,18 @@
   },
   "active": "a2291a3c1552fdc8",
   "lastOpenFiles": [
+    "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
+    "Learning/AI Fundamentals/Notes/Accountability.md",
+    "Learning/AI Fundamentals/Notes/Principles of Responsible AI.md",
+    "Learning/AI Fundamentals/Home.md",
     "Learning/AI Fundamentals/Notes/Classification.md",
     "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
-    "Learning/AI Fundamentals/Notes/Accountability.md",
     "Learning/AI Fundamentals/Notes/Computer Vision.md",
     "Learning/AI Fundamentals/Notes/Unsupervised ML.md",
     "Learning/AI Fundamentals/Notes/Transparency.md",
     "Learning/AI Fundamentals/Notes/Supervised ML.md",
-    "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
     "Learning/AI Fundamentals/Notes/Regression model.md",
     "Learning/AI Fundamentals/Notes/Privacy & Security.md",
-    "Learning/AI Fundamentals/Notes/Principles of Responsible AI.md",
     "Learning/AI Fundamentals/Notes/Natural Language Processing.md",
     "Learning/AI Fundamentals/Notes/Inclusiveness.md",
     "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
@@ -173,7 +174,6 @@
     "Learning/AI Fundamentals/Notes/Clustering.md",
     "Notes/Anomaly Detection.md",
     "Notes/Unsupervised ML.md",
-    "Learning/AI Fundamentals/Home.md",
     "Notes/Supervised ML.md",
     "Notes/Regression model.md",
     "Notes/Principles of Responsible AI.md",
