@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Anomaly Detection.md",
+                "file": "Learning/AI Fundamentals/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Anomaly Detection.md",
+                "file": "Learning/AI Fundamentals/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Anomaly Detection.md",
+                "file": "Learning/AI Fundamentals/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Anomaly Detection.md"
+                "file": "Learning/AI Fundamentals/Home.md"
               }
             }
           }
@@ -153,32 +153,32 @@
   },
   "active": "a2291a3c1552fdc8",
   "lastOpenFiles": [
-    "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
     "Notes/Anomaly Detection.md",
-    "Notes/Clustering model.md",
+    "Learning/AI Fundamentals/Notes/Regression model.md",
+    "Notes/Regression model.md",
     "Learning/AI Fundamentals/Home.md",
+    "Learning/AI Fundamentals/Notes/Principles of Responsible AI.md",
+    "Notes/Principles of Responsible AI.md",
+    "Learning/AI Fundamentals/Notes/Natural Language Processing.md",
+    "Notes/Natural Language Processing.md",
+    "Learning/AI Fundamentals/Notes/Clustering.md",
+    "Notes/ML Types - Clustering.md",
+    "Learning/AI Fundamentals/Notes/Classification.md",
+    "Notes/ML Types - Classification.md",
+    "Learning/AI Fundamentals/Notes/Machine Learning.md",
+    "Notes/Machine Learning.md",
+    "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
+    "Notes/Knowledge Mining.md",
+    "Learning/AI Fundamentals/Notes/Computer Vision.md",
+    "Notes/Computer Vision.md",
+    "Learning/AI Fundamentals/Notes/Clustering model.md",
+    "Notes/Clustering model.md",
+    "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
     "Notes/AI - Transparency.md",
     "Notes/AI - Accountability.md",
     "Learning/AI Fundamentals/Notes/Transparency.md",
     "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
     "Notes/AI - Reliability & Safety.md",
-    "Learning/AI Fundamentals/Notes/Privacy & Security.md",
-    "Notes/AI - Privacy & Security.md",
-    "Learning/AI Fundamentals/Notes/Inclusiveness.md",
-    "Notes/AI - Inclusiveness.md",
-    "Notes/AI - Fairness.md",
-    "Learning/AI Fundamentals/Notes/Fairness.md",
-    "Learning/AI Fundamentals/Notes/Accountability.md",
-    "Learning/AI Fundamentals/Notes/test.md",
-    "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
-    "README.md",
-    "Dashboard.md",
-    "{{coverUrl}}.md",
-    "Element Structure and Formats.md",
-    "Spaces/Obsidian Development/Obsidian Development Dashboard.md",
-    "Spaces/Obsidian Development/Navigation with DataviewJS.md",
-    "Spaces/Obsidian Development/Navigation with Dataview and customJS.md",
-    "Spaces/Definitions/Periapsis.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",

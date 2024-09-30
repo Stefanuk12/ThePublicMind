@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Anomaly Detection|Anomaly Detection]]**
 # Anomaly Detection
 **Overview**
-Description:: 
+Description:: Detects unusual things, and acts on it.
 
 ## Note
 
