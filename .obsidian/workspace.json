@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notes/Anomaly Detection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notes/Anomaly Detection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Notes/Anomaly Detection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Notes/Anomaly Detection.md"
               }
             }
           }
@@ -151,34 +151,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b086af801e8a41b7",
+  "active": "a2291a3c1552fdc8",
   "lastOpenFiles": [
-    "{{coverUrl}}.md",
-    "Dashboard.md",
+    "Learning/AI Fundamentals/Notes/Anomaly Detection.md",
+    "Notes/Anomaly Detection.md",
+    "Notes/Clustering model.md",
+    "Learning/AI Fundamentals/Home.md",
+    "Notes/AI - Transparency.md",
+    "Notes/AI - Accountability.md",
+    "Learning/AI Fundamentals/Notes/Transparency.md",
+    "Learning/AI Fundamentals/Notes/Reliability & Safety.md",
+    "Notes/AI - Reliability & Safety.md",
+    "Learning/AI Fundamentals/Notes/Privacy & Security.md",
+    "Notes/AI - Privacy & Security.md",
+    "Learning/AI Fundamentals/Notes/Inclusiveness.md",
+    "Notes/AI - Inclusiveness.md",
+    "Notes/AI - Fairness.md",
+    "Learning/AI Fundamentals/Notes/Fairness.md",
+    "Learning/AI Fundamentals/Notes/Accountability.md",
+    "Learning/AI Fundamentals/Notes/test.md",
+    "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
     "README.md",
+    "Dashboard.md",
+    "{{coverUrl}}.md",
     "Element Structure and Formats.md",
     "Spaces/Obsidian Development/Obsidian Development Dashboard.md",
     "Spaces/Obsidian Development/Navigation with DataviewJS.md",
     "Spaces/Obsidian Development/Navigation with Dataview and customJS.md",
     "Spaces/Definitions/Periapsis.md",
-    "Spaces/Contacts/Example Contact.md",
-    "Spaces/Books/Books Dashboard.md",
-    "Notes/ML Types - Regression.md",
-    "_data_/templates/learning/Course note.md",
-    "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
-    "Notes/Enceladus Ice Thickness.md",
-    "Notes/Enceladus Geysers Potential Causes.md",
-    "Notes/Model validation.md",
-    "Notes/Notes Dashboard.md",
-    "Notes/Model training.md",
-    "Notes/Regression model.md",
-    "Notes/Clustering model.md",
-    "Notes/Supervised ML.md",
-    "Notes/Unsupervised ML.md",
-    "Notes/Untitled.md",
-    "Notes/Machine Learning.md",
-    "Notes/Solar Cycle Duration.md",
-    "Notes/ML Types - Clustering.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
