@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regression model|Regression model]]**
 # Regression model
 **Overview**
-Description:: 
+Description:: Relationship between features and a continuous label.
 
 ## Note
 

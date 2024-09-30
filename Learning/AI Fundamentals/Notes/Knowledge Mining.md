@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Knowledge Mining|Knowledge Mining]]**
 # Knowledge Mining
 **Overview**
-Description:: A model based upon data and statistics.
+Description:: Indexing information so that it's searchable.
 
 ## Note
 
