@@ -1,6 +1,6 @@
 ---
 date_created: 2024-09-24
-date_modified: 2024-09-24
+date_modified: 2024-09-30
 document_type: course
 tags: sub-dashboard course
 ---
@@ -11,7 +11,7 @@ Title:: AI Fundamentals
 Subject:: Computer Science
 Description:: N/A
 Completed:: false
-Link:: <% tp.file.cursor(1) %>
+Link:: 
 
 
 ## Actions

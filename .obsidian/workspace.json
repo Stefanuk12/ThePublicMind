@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard.md",
-                "mode": "preview",
+                "file": "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "a60f7122a537c574",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Dashboard.md",
+                "file": "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dashboard.md"
+                "file": "Learning/Computing Fundamentals/Lectures/01 - Binary.md"
               }
             }
           }
@@ -153,11 +154,26 @@
   },
   "active": "d989b72f409192e3",
   "lastOpenFiles": [
-    "Learning/Computational Thinking/Home.md",
-    "Dashboard.md",
-    "Projects/Top Secret Project/Home.md",
+    "_data_/templates/learning/Course lecture.md",
+    "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
+    "Learning/Computing Fundamentals/Home.md",
+    "Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence.md",
+    "Learning/Computing Fundamentals/Lectures/01 - Theory.md",
     "README.md",
     "Element Structure and Formats.md",
+    "Learning/AI Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures",
+    "Learning/AI Fundamentals/Lectures/unnamed lecture.md",
+    "Learning/AI Fundamentals/Basics of AI.md",
+    "Learning/AI Fundamentals/Lecture 1.md",
+    "Learning/AI Fundamentals/Lectures",
+    "_data_/templates/learning/Course setup.md",
+    "_data_/templates/learning/Course note.md",
+    "Learning/Data Fundamentals/Home.md",
+    "Learning/Learning Dashboard.md",
+    "Dashboard.md",
+    "Learning/Computational Thinking/Home.md",
+    "Projects/Top Secret Project/Home.md",
     "Spaces/Spaces Dashboard.md",
     "Spaces/Trips/Trips Dashboard.md",
     "Spaces/Definitions/Periapsis.md",
@@ -166,29 +182,14 @@
     "Resources/Resources Dashboard.md",
     "Journal/Journal Dashboard.md",
     "Inbox/Inbox.md",
-    "Concept Board/Concept Board.md",
-    "Concept Board/Drawings/Satellite Concept Drawing.md",
-    "Concept Board/Concepts/Vertical Hydroponics.md",
-    "Personal/Personal Dashboard.md",
-    "Notes/Notes Dashboard.md",
-    "Notes/Enceladus Geysers Potential Causes.md",
-    "Learning/Programming/Home.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
     "Learning/Programming",
-    "Learning/Learning Dashboard.md",
-    "Learning/Data Fundamentals/Home.md",
     "Learning/Data Fundamentals/Assignments",
     "Learning/Data Fundamentals/Notes",
     "Learning/Data Fundamentals/Lectures",
     "Learning/Data Fundamentals",
-    "Learning/Computers & Society/Home.md",
-    "Learning/Computers & Society/Assignments",
-    "Learning/Computers & Society/Notes",
-    "Learning/Computing Fundamentals/Home.md",
-    "Learning/AI Fundamentals/Home.md",
-    "Learning/Computer Science/Home.md",
     "_data_/media/banners/banner-personal-01.jpg",
     "_data_/media/banners/cosmic-dawn-initiative.png",
     "_data_/media/banners/cosmic-dawn-initiative.png",

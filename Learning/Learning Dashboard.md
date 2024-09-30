@@ -1,5 +1,8 @@
 ---
 banner: "![[banner-learning.jpg]]"
+---
+---
+banner: "![[banner-learning.jpg]]"
 banner_y: 0.65
 date_created: 2023-07-06
 date_modified: 2023-07-18
