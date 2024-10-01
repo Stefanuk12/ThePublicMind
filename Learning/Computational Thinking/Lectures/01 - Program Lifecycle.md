@@ -26,6 +26,16 @@ There are 7 main points in the cycle:
 Over constraint - too many results in 0 solutions
 Under constraint - not enough results in many solutions
 
+## Objective
+
+SMART objectives
+- Specific
+- Measurable
+- Achievable (or Attainable)
+- Relevant (or Realistic)
+- ~~Time-Bound~~
+- Clear (about your goals)
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Lectures/01 - Program Lifecycle|01 - Program Lifecycle]]**
 
