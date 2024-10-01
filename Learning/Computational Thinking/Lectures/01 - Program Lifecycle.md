@@ -10,7 +10,7 @@ tags: course lecture
 Description:: 
 Link:: 
 
-## Section 1
+## Lifecycle
 
 There are 7 main points in the cycle:
 - Objective
@@ -20,6 +20,11 @@ There are 7 main points in the cycle:
 - Implementation
 - Test/Evaluation
 - Pivot
+
+## Constraints
+
+Over constraint - too many results in 0 solutions
+Under constraint - not enough results in many solutions
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Lectures/01 - Program Lifecycle|01 - Program Lifecycle]]**
