@@ -36,6 +36,12 @@ SMART objectives
 - ~~Time-Bound~~
 - Clear (about your goals)
 
+Have good goals.
+
+## Coming up with good solutions
+
+Ask **why**, but never more than 3 times.
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Lectures/01 - Program Lifecycle|01 - Program Lifecycle]]**
 
