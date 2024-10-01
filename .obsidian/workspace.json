@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computational Thinking/Home.md",
+                "file": "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computational Thinking/Home.md",
+                "file": "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computational Thinking/Home.md",
+                "file": "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computational Thinking/Home.md"
+                "file": "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "4363032f6a49dbe1",
   "lastOpenFiles": [
+    "Learning/Computational Thinking/Home.md",
+    "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md",
+    "Learning/Computational Thinking/Lectures",
     "Learning/Learning Dashboard.md",
     "Learning/AI Fundamentals/Notes/Regression model.md",
     "Learning/AI Fundamentals/Notes/Unsupervised ML.md",
@@ -187,8 +190,6 @@
     "Notes/Anomaly Detection.md",
     "Notes/Unsupervised ML.md",
     "Notes/Supervised ML.md",
-    "Notes/Regression model.md",
-    "Notes/Principles of Responsible AI.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
@@ -198,7 +199,6 @@
     "Learning/Data Fundamentals/Lectures",
     "Learning/Data Fundamentals",
     "Learning/Computers & Society/Assignments",
-    "Learning/Computers & Society/Notes",
     "_data_/media/banners/banner-personal-01.jpg",
     "_data_/media/banners/cosmic-dawn-initiative.png",
     "_data_/media/banners/cosmic-dawn-initiative.png",
