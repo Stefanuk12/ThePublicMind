@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+                "file": "Learning/Computing Fundamentals/Home.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coverurl",
+                "query": "fileProjectRoot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,12 +65,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "a60f7122a537c574",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+                "file": "Learning/Computing Fundamentals/Home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+                "file": "Learning/Computing Fundamentals/Home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md"
+                "file": "Learning/Computing Fundamentals/Home.md"
               }
             }
           },
@@ -161,14 +161,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a0d46bd0b6d3f12",
+  "active": "0d898f7a13d78898",
   "lastOpenFiles": [
+    "Learning/Computing Fundamentals/Notes/unnamed note.md",
+    "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+    "Notes/Notes Dashboard.md",
+    "Learning/Computing Fundamentals/Notes",
     "_data_/templates/learning/Course seminar.md",
     "_data_/templates/learning/Course note.md",
     "_data_/templates/learning/Course lecture.md",
-    "Learning/Computing Fundamentals/Home.md",
     "Learning/Computing Fundamentals/Lectures/unnamed lecture.md",
-    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "_data_/templates/learning/Course setup.md",
     "_data_/templates/learning/Course assignment.md",
     "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
@@ -188,8 +191,6 @@
     "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
     "Learning/AI Fundamentals/Notes/Inclusiveness.md",
     "Learning/AI Fundamentals/Notes/Fairness.md",
-    "Learning/AI Fundamentals/Notes/Computer Vision.md",
-    "Learning/AI Fundamentals/Notes/Clustering model.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
@@ -198,7 +199,6 @@
     "Learning/Data Fundamentals/Notes",
     "Learning/Data Fundamentals/Lectures",
     "Learning/Data Fundamentals",
-    "Learning/Computers & Society/Assignments",
     "_data_/media/banners/banner-personal-01.jpg",
     "_data_/media/banners/cosmic-dawn-initiative.png",
     "_data_/media/banners/cosmic-dawn-initiative.png",
