@@ -24,14 +24,14 @@ class tailwind-button-white
 ```
 ```button
 name + Add seminar
-type note(<% `${fileProjectRoot}` %>/Lectures/unnamed seminar) template
+type note(Learning/Computing Fundamentals/Lectures/unnamed seminar) template
 action learning/Course seminar
 templater true
 class tailwind-button-white
 ```
 ```button
 name + Add workshop
-type note(<% `${fileProjectRoot}` %>/Lectures/unnamed workshop) template
+type note(Learning/Computing Fundamentals/Lectures/unnamed workshop) template
 action learning/Course workshop
 templater true
 class tailwind-button-white
