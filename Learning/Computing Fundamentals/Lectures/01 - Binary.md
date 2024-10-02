@@ -12,6 +12,7 @@ Link::
 
 ## Section 1
 
+yap
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/01 - Binary|01 - Binary]]**
