@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f27dfc480965f79",
+        "id": "a7a0adf96bf774dd",
         "type": "tabs",
         "children": [
           {
-            "id": "4363032f6a49dbe1",
+            "id": "0a0d46bd0b6d3f12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_data_/templates/learning/Course setup.md",
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_data_/templates/learning/Course setup.md",
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_data_/templates/learning/Course setup.md",
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_data_/templates/learning/Course setup.md"
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md"
               }
             }
           },
@@ -160,16 +160,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4363032f6a49dbe1",
+  "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
-    "_data_/templates/learning/Course note.md",
-    "_data_/templates/learning/Course assignment.md",
-    "Learning/Computing Fundamentals/Home.md",
-    "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
-    "_data_/templates/learning/Course setup.md",
-    "Learning/Learning Dashboard.md",
-    "_data_/templates/learning/Course lecture.md",
     "_data_/templates/learning/Course seminar.md",
+    "_data_/templates/learning/Course note.md",
+    "_data_/templates/learning/Course lecture.md",
+    "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures/unnamed lecture.md",
+    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+    "_data_/templates/learning/Course setup.md",
+    "_data_/templates/learning/Course assignment.md",
+    "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
+    "Learning/Learning Dashboard.md",
     "_data_/templates/learning/Course workshop.md",
     "Learning/Computational Thinking/Lectures/01 - Program Lifecycle.md",
     "Learning/Computational Thinking/Home.md",
@@ -187,8 +189,6 @@
     "Learning/AI Fundamentals/Notes/Fairness.md",
     "Learning/AI Fundamentals/Notes/Computer Vision.md",
     "Learning/AI Fundamentals/Notes/Clustering model.md",
-    "Learning/AI Fundamentals/Notes/Clustering.md",
-    "Learning/AI Fundamentals/Notes/Classification.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
