@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ebeca22819ebd13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Learning/Computing Fundamentals/Notes/Standard form notation.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,15 +173,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a0d46bd0b6d3f12",
+  "active": "6ebeca22819ebd13",
   "lastOpenFiles": [
-    "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Standard form notation.md",
+    "Learning/Computing Fundamentals/Home.md",
     "_data_/templates/learning/Course lecture.md",
     "_data_/templates/learning/Course note.md",
     "_data_/templates/learning/Course workshop.md",
     "_data_/templates/learning/Course setup.md",
-    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Notes/Notes Dashboard.md",
     "Learning/Computing Fundamentals/Notes",
     "_data_/templates/learning/Course seminar.md",
