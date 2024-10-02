@@ -29,6 +29,7 @@ Increase exponent = bigger number but less precise
 Increase significand = smaller number but more precise
 
 Therefore, can't be large and small at the same time.
+- To get around this, store the "large" and "small" numbers separately 
 
 ## Single precision
 
