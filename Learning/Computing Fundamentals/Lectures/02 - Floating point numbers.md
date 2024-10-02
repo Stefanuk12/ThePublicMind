@@ -25,6 +25,11 @@ In the form: `a * b^c` where
 Allows compact and efficient way to represent small **and** large numbers.
 - as long as they're not very precise...
 
+Increase exponent = bigger number but less precise
+Increase significant = smaller number but more precise
+
+Therefore, can't be large and small at the same time.
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/02 - Floating point numbers|02 - Floating point numbers]]**
 
