@@ -43,6 +43,11 @@ Therefore, can't be large and small at the same time.
 - 11 bit exponent
 - 1023 offset
 
+## Takeaways
+
+- Floats are never equal, e.g. `0.1 + 0.1 + 0.1 != 0.3`
+- Repeated calculations = more inaccurate
+- Don't use to count...
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/02 - Floating point numbers|02 - Floating point numbers]]**
