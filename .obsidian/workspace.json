@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Home.md",
+                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computing Fundamentals/Home.md",
+                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computing Fundamentals/Home.md",
+                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computing Fundamentals/Home.md"
+                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md"
               }
             }
           },
@@ -174,10 +174,11 @@
   },
   "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
+    "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
+    "Learning/Computing Fundamentals/Notes/Standard form notation.md",
     "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Untitled.md",
-    "Learning/Computing Fundamentals/Notes/Standard form notation.md",
-    "Learning/Computing Fundamentals/Home.md",
     "_data_/templates/learning/Course lecture.md",
     "_data_/templates/learning/Course note.md",
     "_data_/templates/learning/Course workshop.md",
@@ -185,7 +186,6 @@
     "Notes/Notes Dashboard.md",
     "Learning/Computing Fundamentals/Notes",
     "_data_/templates/learning/Course seminar.md",
-    "Learning/Computing Fundamentals/Lectures/unnamed lecture.md",
     "_data_/templates/learning/Course assignment.md",
     "Learning/Computing Fundamentals/Lectures/01 - Binary.md",
     "Learning/Learning Dashboard.md",
