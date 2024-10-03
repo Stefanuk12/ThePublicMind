@@ -32,7 +32,26 @@ Many versions, we now use 1987 ver. Previous versions didn't have lowercase, `_`
 - Successor to ASCII
 - 21 bits, as many more aren't needed and allows storage optimisations
 
-UTF-8 - variable length (VLA) from 1-4 bytes
+### UTF-8
+- variable length (VLA) from 1-4 bytes
+- ASCII = valid Unicode $\therefore$ extended ASCII is not
+
+### Planes
+
+- Plane 1
+	- 0000-FFFF
+	- Basic multilingual
+	- Latin, Greek, Maths, Chinese, ...
+- Plane 1 = 10000-1FFFF
+	- Supplementary multilingual
+- Plane 2 = 20000-2FFFF
+	- Supplementary ideographic plane
+- Plane 3-13 = 30000-DFFFF
+	- Reserved for expansion
+- Plane 14 = E0000-EFFFF
+	- Supplementary special purpose plane
+- Plane 15-16 = F0000-10FFFF
+	- Private use areas
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode|03 - Hex and Unicode]]**
