@@ -30,7 +30,9 @@ Many versions, we now use 1987 ver. Previous versions didn't have lowercase, `_`
 ## Unicode
 
 - Successor to ASCII
-- 21 bits
+- 21 bits, as many more aren't needed and allows storage optimisations
+
+UTF-8 - variable length (VLA) from 1-4 bytes
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode|03 - Hex and Unicode]]**
