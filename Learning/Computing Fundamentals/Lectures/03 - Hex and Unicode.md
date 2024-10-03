@@ -21,6 +21,17 @@ Base-16
 
 `h` in ASM on datum = hex
 
+## ASCII
+
+Many versions, we now use 1987 ver. Previous versions didn't have lowercase, `_`, etc.
+
+- 7 bit, not 8 because old
+
+## Unicode
+
+- Successor to ASCII
+- 21 bits
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode|03 - Hex and Unicode]]**
 
