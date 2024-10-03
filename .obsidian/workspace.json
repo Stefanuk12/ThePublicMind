@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/Standard form notation.md",
+                "file": "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -174,11 +174,11 @@
   },
   "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
-    "Learning/Computing Fundamentals/Home.md",
-    "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
     "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
-    "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
+    "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Standard form notation.md",
+    "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
     "Learning/Computing Fundamentals/Notes/Untitled.md",
     "_data_/templates/learning/Course lecture.md",
     "_data_/templates/learning/Course note.md",
