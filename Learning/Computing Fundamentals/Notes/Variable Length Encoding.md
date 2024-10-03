@@ -14,8 +14,11 @@ Description::
 Formats like [[UTF-8]] use variable length encoding (VLE) to conserve memory by allocating only the necessary bytes.
 
 If storing one byte, the sequence will start with a singular `0`.
-If storing two bytes, the sequence will start with `110` and insert a `10` every 5 bits.
-If storing three bytes, the sequence 
+If storing two bytes, the sequence will start with `110` and insert a `10` every 6 bits once.
+If storing three bytes, the sequence will start with `1110` and insert `10` every 6 bits twice.
+If storing four bytes, the sequence will start with `11110` and insert `10` every 6 bits thrice.
+
+To summarise, it starts by filling one byte with $N$ number of `1`s, except for when $N = 1$, then a `0`. It then fills the remaining of the byte with any data. Each new byte, it will start with a `10`.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Variable Length Encoding|Variable Length Encoding]]**
