@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/ASCII.md",
+                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,8 +99,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5,
-    "collapsed": true
+    "width": 379.5
   },
   "right": {
     "id": "a60f7122a537c574",
@@ -116,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/ASCII.md",
+                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/ASCII.md",
+                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/ASCII.md"
+                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md"
               }
             }
           },
@@ -193,6 +192,8 @@
   },
   "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
+    "Learning/Computing Fundamentals/Notes/Unicode.md",
+    "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
     "Learning/Computing Fundamentals/Home.md",
     "Learning/Computing Fundamentals/Notes/ASCII.md",
     "Learning/Computing Fundamentals/Notes/Hexadecimal.md",
@@ -219,8 +220,6 @@
     "Learning/Computational Thinking/Lectures",
     "Learning/AI Fundamentals/Notes/Regression model.md",
     "Learning/AI Fundamentals/Notes/Unsupervised ML.md",
-    "Learning/AI Fundamentals/Notes/Transparency.md",
-    "Learning/AI Fundamentals/Notes/Supervised ML.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
