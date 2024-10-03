@@ -28,7 +28,15 @@ Floating point numbers allow computers to store fractions and much larger (or sm
 ### Calculation
 
 1. Convert to decimal to fixed point
+2. Count the number of places needed to move the binary point to the first "10"
+3. Insert the sign bit: 1 = negative, 0 = positive
+4. Add the offset to the exponent
+5. Combine all the parts together: sign, exponent, significand
 
+### Warnings
+ - Floats are never equal, e.g. `0.1 + 0.1 + 0.1 != 0.3`
+ - Repeated calculations = more inaccurate
+ - Don't use to count...
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Floating point numbers|Floating point numbers]]**
