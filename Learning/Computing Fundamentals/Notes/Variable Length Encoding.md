@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Variable Length Encoding|Variable Length Encoding]]**
 # Variable Length Encoding
 **Overview**
-Description:: 
+Description:: A method to storing numbers without allocating unnecessary bits.
 
 ## Note
 
