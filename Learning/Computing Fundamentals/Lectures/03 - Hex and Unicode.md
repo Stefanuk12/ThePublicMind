@@ -10,8 +10,13 @@ tags: course lecture
 Description:: 
 Link:: 
 
-## H
+## Hexadecimal
 
+Base-16
+- Easier to read, interpret and remember than binary
+- Can be easily converted to binary and back
+
+0-9 then A-F (to represent 10 to 15)
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode|03 - Hex and Unicode]]**
