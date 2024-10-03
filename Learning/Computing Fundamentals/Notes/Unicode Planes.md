@@ -29,7 +29,7 @@ There are 17 [[Unicode]] planes which designates different regions for different
 ### Planes 4-13
 - 40000-DFFFF
 - Reserved for expansion
-### Planes 14
+### Plane 14
 - E0000-EFFFF
 - Supplementary special purpose plane
 ### Planes  15-16

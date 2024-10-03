@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
+                "file": "Learning/Computing Fundamentals/Notes/UTF-8.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 379.5
+    "width": 379.5,
+    "collapsed": true
   },
   "right": {
     "id": "a60f7122a537c574",
@@ -115,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
+                "file": "Learning/Computing Fundamentals/Notes/UTF-8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
+                "file": "Learning/Computing Fundamentals/Notes/UTF-8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computing Fundamentals/Notes/Unicode Planes.md"
+                "file": "Learning/Computing Fundamentals/Notes/UTF-8.md"
               }
             }
           },
@@ -193,8 +194,10 @@
   "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
     "Learning/Computing Fundamentals/Notes/Unicode.md",
-    "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
+    "Learning/Computing Fundamentals/Notes/UTF-8.md",
     "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Notes/Standard form notation.md",
+    "Learning/Computing Fundamentals/Notes/Unicode Planes.md",
     "Learning/Computing Fundamentals/Notes/ASCII.md",
     "Learning/Computing Fundamentals/Notes/Hexadecimal.md",
     "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
@@ -202,7 +205,6 @@
     "Learning/Computing Fundamentals/Notes/Double precision FP.md",
     "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Single precision FP.md",
-    "Learning/Computing Fundamentals/Notes/Standard form notation.md",
     "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Untitled.md",
     "_data_/templates/learning/Course lecture.md",
@@ -219,7 +221,6 @@
     "Learning/Computational Thinking/Home.md",
     "Learning/Computational Thinking/Lectures",
     "Learning/AI Fundamentals/Notes/Regression model.md",
-    "Learning/AI Fundamentals/Notes/Unsupervised ML.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
