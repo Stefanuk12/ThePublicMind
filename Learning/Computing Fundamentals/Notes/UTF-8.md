@@ -13,7 +13,7 @@ Description:: Encoding method for Unicode via bytes.
 
 UTF-8 tells the computer how to store [[Unicode]] characters. It can use 1-4 bytes, depending on the amount needed.
 
-It uses variable length width to only encode the exact amount of space needed which allows the program to save on memory.
+It uses variable length encoding to only encode the exact amount of space needed which allows the program to save on memory.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/UTF-8|UTF-8]]**
