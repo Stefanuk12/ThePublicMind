@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
+                "file": "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
+                "file": "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
+                "file": "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md"
+                "file": "Learning/Computing Fundamentals/Notes/Floating point numbers.md"
               }
             }
           },
@@ -175,9 +175,10 @@
   "active": "0a0d46bd0b6d3f12",
   "lastOpenFiles": [
     "Learning/Computing Fundamentals/Home.md",
+    "Learning/Computing Fundamentals/Notes/Floating point numbers.md",
+    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Learning/Computing Fundamentals/Lectures/03 - Hex and Unicode.md",
     "Learning/Computing Fundamentals/Notes/Standard form notation.md",
-    "Learning/Computing Fundamentals/Lectures/02 - Floating point numbers.md",
     "Learning/Computing Fundamentals/Notes/Untitled.md",
     "_data_/templates/learning/Course lecture.md",
     "_data_/templates/learning/Course note.md",
@@ -201,7 +202,6 @@
     "Learning/AI Fundamentals/Notes/Natural Language Processing.md",
     "Learning/AI Fundamentals/Notes/Machine Learning.md",
     "Learning/AI Fundamentals/Notes/Knowledge Mining.md",
-    "Learning/AI Fundamentals/Notes/Inclusiveness.md",
     "Learning/Programming/Assignments",
     "Learning/Programming/Notes",
     "Learning/Programming/Lectures",
