@@ -31,6 +31,8 @@ Many versions, we now use 1987 ver. Previous versions didn't have lowercase, `_`
 
 - Successor to ASCII
 - 21 bits, as many more aren't needed and allows storage optimisations
+- U+`num` = Unicode character
+- Doesn't control styling
 
 ### UTF-8
 - variable length (VLA) from 1-4 bytes
