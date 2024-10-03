@@ -18,7 +18,7 @@ If storing two bytes, the sequence will start with `110` and insert a `10` every
 If storing three bytes, the sequence will start with `1110` and insert `10` every 6 bits twice.
 If storing four bytes, the sequence will start with `11110` and insert `10` every 6 bits thrice.
 
-To summarise, it starts by filling one byte with $N$ number of `1`s, except for when $N = 1$, then a `0`. It then fills the remaining of the byte with any data. Each new byte, it will start with a leading `10`.
+To summarise, it starts by filling one byte with $N$ number of `1`s, except for when $N = 1$, then a `0`. It then fills the remaining of the byte with any data. Each new byte will start with a leading `10`.
 
 When decoding, the leading bits are removed and the remaining bits are concatenated to form the actual value we want.
 

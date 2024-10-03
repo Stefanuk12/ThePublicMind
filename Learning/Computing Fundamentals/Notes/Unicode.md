@@ -15,5 +15,11 @@ Unicode is the successor to [[ASCII]] and instead of only using 7 bits, it uses 
 
 Unicode gives each character a numerical value, but it does **not** tell the computer how to store the value. However, it does define [[Unicode Planes|planes]] which allocate blocks of the available space to specific purposes.
 
+Since all Unicode does allocate each character a numerical value, it does not control styling.
+
+Usually, Unicode numbers are indicated that they are Unicode with a leading `U+`.
+
+A benefit of Unicode is that it's directly compatible with [[ASCII]] but [[Extended ASCII|extended ASCII]].
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Unicode|Unicode]]**

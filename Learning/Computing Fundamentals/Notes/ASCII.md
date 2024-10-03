@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/ASCII|ASCII]]**
 # ASCII
 **Overview**
-Description:: 
+Description:: An olden way to 
 
 ## Note
 
