@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Notes/Over constraint|Over constraint]]**
 # Over constraint
 **Overview**
-Description:: 
+Description:: Too many constraints result in no possible solution.
 
 ## Note
 

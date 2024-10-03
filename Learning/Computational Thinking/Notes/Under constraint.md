@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Notes/Under constraint|Under constraint]]**
 # Under constraint
 **Overview**
-Description:: 
+Description:: Loose constraints resulting in too many possible solutions.
 
 ## Note
 
