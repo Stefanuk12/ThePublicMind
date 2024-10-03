@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Unicode|Unicode]]**
 # Unicode
 **Overview**
-Description:: 
+Description:: Gives each character a numerical value.
 
 ## Note
 
