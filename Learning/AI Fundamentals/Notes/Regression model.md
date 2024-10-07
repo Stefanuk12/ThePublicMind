@@ -11,7 +11,7 @@ Description:: Relationship between features and a continuous label.
 
 ## Note
 
-A [[Regression model|regression]] model captures a relationship between features and the label, in which the label is a **continuous number**.
+A [[Regression|regression]] model captures a relationship between features and the label, in which the label is a **continuous number**.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regression model|Regression model]]**
