@@ -47,7 +47,7 @@ It establishes a relationship between the features (inputs) and label (output).
 	- Convert from text to numerical
 - Cleaning
 	- Remove duplicates
-	- Deal with missed values (predict or remove data)
+	- Deal with missing values (predict or remove data)
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
