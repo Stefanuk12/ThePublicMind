@@ -11,10 +11,7 @@ Description:: Measures how inaccurate the model is.
 
 ## Note
 
-The loss function measures how inaccurate the model is. For example, the mean square error (MSE):
-$$
-L(\theta_0, \theta_1) = \frac{1}{m}\sum_{i=1}^{m}{(f_\theta(x_i) - y_i)^2}
-$$
+The loss function measures how inaccurate the model is. For example, the [[Mean Square Error|mean square error]] (MSE).
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Loss function|Loss function]]**

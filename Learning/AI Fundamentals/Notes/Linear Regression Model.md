@@ -11,7 +11,7 @@ Description::
 
 ## Note
 
-
+The linear regression model
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Linear Regression Model|Linear Regression Model]]**
