@@ -62,11 +62,16 @@ It establishes a relationship between the features (inputs) and label (output).
 The regressor is $f_0(x) = \theta_0 + \theta_1x$ which is a $y = mx + c$ model.
 - Parameters here are $\theta_0$ and $\theta_1$
 
-To measure the accuracy, we use a loss function. In this case, we use the mean square error:
+	To measure the accuracy of the parameters, we use a loss function. In this case, we use the mean square error:
 $$
 L(\theta_0, \theta_1) = \frac{1}{m}\sum_{i=1}^{m}{(f_\theta(x_i) - y_i)^2}
 $$
-The parameters are initially random, then the model is repeated with different parameters, trying to minimise $L$.
+The parameters are initially random, then the model is repeated with different parameters, trying to minimise $L$. The model stops when the best result is achieved or until the maximum iterations has been reached.
+
+*why do we square?*
+- removes negatives
+- always $\geq$ 0
+- 
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
