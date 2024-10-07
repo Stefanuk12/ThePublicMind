@@ -14,6 +14,12 @@ Link::
 
 Regression = an **algorithm** that creates a model to predict a model. It is **not** the model itself.
 - Useful when little data is available
+- Easy to interpret
+- Robust
+- Fast
+
+- Input = Independent
+- Output = Dependant 
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
