@@ -11,7 +11,7 @@ Description::
 
 ## Note
 
-The square root of the [[Mean Square Error]] gives the RMSE. 
+The square root of the [[Mean Square Error]] gives the RMSE. However, 
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Root Measure Square Error|Root Measure Square Error]]**
