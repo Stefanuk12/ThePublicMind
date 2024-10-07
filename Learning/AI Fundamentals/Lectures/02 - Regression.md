@@ -7,12 +7,12 @@ tags: course lecture
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
 # 02 - Regression
 **Overview**
-Description:: Basic regression terms and linear regression model.
+Description:: 
 Link:: 
 
 ## Introduction
 
-Regression = an **algorithm** that creates a model to predict a number. It is **not** the model itself.
+Regression = an **algorithm** that creates a model to predict a model. It is **not** the model itself.
 - Useful when little data is available
 - Easy to interpret
 - Robust
@@ -83,10 +83,23 @@ Difference between predicted value and label = residual/loss function
 
 Since we squared the error, we can sqrt it to get the estimated loss. This means that the incorrect predictions are around off by that RMSE.
 
-$R^2$ , the coefficient of determination, can also be calculated which tells us the correlation between $x$ and $y^2$.
+$R^2$ , the coefficient of determination, can also be calculated which tells us the correlation between $x$ and $y$.
 - It gives a value between 0 and 1
 - 1 = model explains all of the variation in the data
 - Closer to 1 is better
+
+## Multivariate Linear Regression
+
+The regressor is changed to be:
+$$
+f_0(x) = \theta + \theta_1x + \theta_2x_2 + \dots
+$$
+
+and the loss function is changed to include each parameter.
+
+$$
+L(\theta_0, \theta_1, \theta_2, \dots) = \frac{1}{m}\sum_{i=1}^{m}{(f_\theta(x_i) - y_i)^2}
+$$
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
