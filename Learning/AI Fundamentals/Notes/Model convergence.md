@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Model convergence|Model convergence]]**
 # Model convergence
 **Overview**
-Description:: A model with minimal 
+Description:: A model with minimal errors.
 
 ## Note
 

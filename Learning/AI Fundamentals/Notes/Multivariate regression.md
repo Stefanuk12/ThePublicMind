@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Multivariate regression|Multivariate regression]]**
 # Multivariate regression
 **Overview**
-Description:: 
+Description:: Regression that uses only many features.
 
 ## Note
 

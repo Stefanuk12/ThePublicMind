@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Univariate regression|Univariate regression]]**
 # Univariate regression
 **Overview**
-Description:: 
+Description:: Regression that uses only one feature.
 
 ## Note
 

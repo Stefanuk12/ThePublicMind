@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Testing data|Testing data]]**
 # Testing data
 **Overview**
-Description:: 
+Description:: Provides an unbiased final evaluation of a model fit.
 
 ## Note
 

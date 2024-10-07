@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Data transformation|Data transformation]]**
 # Data transformation
 **Overview**
-Description:: 
+Description:: Ensures all data is numerical.
 
 ## Note
 

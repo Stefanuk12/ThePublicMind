@@ -7,7 +7,7 @@ tags: course lecture
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/01 - Explore Fundamentals of Artificial Intelligence|01 - Explore Fundamentals of Artificial Intelligence]]**
 # 01 - Explore Fundamentals of Artificial Intelligence
 **Overview**
-Description:: An introduction to the module
+Description:: An introduction to the module.
 Link:: 
 
 ## Section 1

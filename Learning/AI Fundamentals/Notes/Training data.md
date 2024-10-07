@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Training data|Training data]]**
 # Training data
 **Overview**
-Description:: 
+Description:: The data that the algorithm is applied to.
 
 ## Note
 

@@ -7,11 +7,11 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regression|Regression]]**
 # Regression
 **Overview**
-Description:: 
+Description:: An algorithm that creates a model to predict a number.
 
 ## Note
 
-Regression is an **algorithm** that creates a model to predict a model. It is **not** the model itself.
+Regression is an **algorithm** that creates a model to predict a number. It is **not** the model itself.
 
 ### Why use regression?
 

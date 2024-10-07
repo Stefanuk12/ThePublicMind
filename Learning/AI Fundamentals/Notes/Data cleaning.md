@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Data cleaning|Data cleaning]]**
 # Data cleaning
 **Overview**
-Description:: 
+Description:: Accounting for missing data or duplicates.
 
 ## Note
 
