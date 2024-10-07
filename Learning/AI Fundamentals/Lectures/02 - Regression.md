@@ -10,7 +10,7 @@ tags: course lecture
 Description:: 
 Link:: 
 
-## Section 1
+## Introduction
 
 Regression = an **algorithm** that creates a model to predict a model. It is **not** the model itself.
 - Useful when little data is available
@@ -24,8 +24,6 @@ Regression = an **algorithm** that creates a model to predict a model. It is **n
 It establishes a relationship between the features (inputs) and label (output).
 
 ## Types of regression
-
-
 
 - Univariate (1 feature)
 	- Linear
