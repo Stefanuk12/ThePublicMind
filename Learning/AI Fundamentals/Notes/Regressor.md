@@ -7,14 +7,14 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regressor|Regressor]]**
 # Regressor
 **Overview**
-Description:: 
+Description:: The function that establishes the relationship
 
 ## Note
 
-The regressor is the function that establishes the relationship. For example:
+The regressor is the function that establishes the relationship. For example a $y = mx + c$ model like this:
 $$
-
-$
+f_0(x) = \theta_0 + \theta_1x
+$$
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regressor|Regressor]]**
