@@ -74,6 +74,7 @@ The parameters are initially random, then the model is repeated with different p
 *how does the model refine the parameters?*
 - updated in opposite direction to gradient
 - size of steps taken given by a learning rate
+- -> least squares *research this*
 
 Be aware of noise in the data!
 
