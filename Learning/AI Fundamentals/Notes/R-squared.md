@@ -11,10 +11,9 @@ Description:: A measure of how close the data is to the fitted regression line.
 
 ## Note
 
-$R^2$ , the coefficient of determination, can also be calculated which tells us the correlation between $x$ and $y^2$.
+$R^2$ , the coefficient of determination, tells us the correlation between $x$ and $y$.
 - It gives a value between 0 and 1
-- 1 = model explains all of the variation in the data
-- Closer to 1 is better
+- At an $R^2$ of $1$, the model explains all of the variation in the data and therefore all of the data is along the fitted regression line.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/R-squared|R-squared]]**
