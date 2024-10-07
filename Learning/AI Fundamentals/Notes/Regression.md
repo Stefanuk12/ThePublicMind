@@ -22,6 +22,10 @@ Regression is an **algorithm** that creates a model to predict a number. It is *
 
 ### Types of regression
 
+- [[Univariate regression]]
+- [[Multivariate regression]]
+
+Both of which can either be [[Linear Regression Model|linear]] or non-linear.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Regression|Regression]]**
