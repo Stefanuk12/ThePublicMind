@@ -37,7 +37,8 @@ It establishes a relationship between the features (inputs) and label (output).
 - Training
 	- Apply the algorithm to this split, to establish the relationship
 - Validation
-	- During training, generate predictions and compare to known
+	- During training, generate predictions on unseen data and compare to known
+	- To access the performance of the model
 	- Can be used for model hyper-parameter tuning
 - Test
 
@@ -48,6 +49,12 @@ It establishes a relationship between the features (inputs) and label (output).
 - Cleaning
 	- Remove duplicates
 	- Deal with missing values (predict or remove data)
+
+## Other terminology
+
+- Epoch/iteration = full pass over the training data
+- Algorithm -> predictive model
+	- Training an algorithm -> validating the predictive model
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
