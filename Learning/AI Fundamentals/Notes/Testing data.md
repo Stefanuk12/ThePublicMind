@@ -11,7 +11,7 @@ Description::
 
 ## Note
 
-The model is tested on this dataset.
+The model is tested on this dataset to provide an unbiased final evaluation of a model fit.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Testing data|Testing data]]**
