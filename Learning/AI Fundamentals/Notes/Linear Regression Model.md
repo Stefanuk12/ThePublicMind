@@ -11,7 +11,7 @@ Description::
 
 ## Note
 
-The linear regression model
+The linear regression model uses a [[Regressor|regressor]] and can be [[Univariate regression|univariate]] or [[Multivariate regression||multivariate]]. To access the parameters, a [[Loss function|loss function]] is used then an algorithm like [[Least squares|least squares]] is used to tune the parameters.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Linear Regression Model|Linear Regression Model]]**

@@ -15,6 +15,7 @@ A way to measure the accuracy of the parameters ($\theta_0$, $\theta_1$, $\theta
 $$
 L(\theta_0, \theta_1, \dots) = \frac{1}{m}\sum_{i=1}^{m}{(f_\theta(x_i) - y_i)^2}
 $$
+- It's squared to remove negatives
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Mean Square Error|Mean Square Error]]**
