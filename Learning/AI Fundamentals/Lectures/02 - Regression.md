@@ -21,6 +21,19 @@ Regression = an **algorithm** that creates a model to predict a model. It is **n
 - Input = Independent
 - Output = Dependant 
 
+It establishes a relationship between the features (inputs) and label (output).
+
+## Types of regression
+
+
+
+- Univariate (1 feature)
+	- Linear
+	- Non-Linear
+- Multivariate (2+ features)
+	- Linear
+	- Non-Linear
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
 
