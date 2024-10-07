@@ -53,6 +53,7 @@ It establishes a relationship between the features (inputs) and label (output).
 ## Other terminology
 
 - Epoch/iteration = full pass over the training data
+	- Do many iterations until the model converges (minimal error, *look at this more*) or a maximum reached
 - Algorithm -> predictive model
 	- Training an algorithm -> validating the predictive model
 
