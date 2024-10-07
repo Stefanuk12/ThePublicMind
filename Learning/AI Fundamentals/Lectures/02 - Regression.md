@@ -81,6 +81,13 @@ Be aware of noise in the data!
 Difference between predicted value and label = residual/loss function
 - This can be used to measure the accuracy and calculate a MSE as mentioned previously
 
+Since we squared the error, we can sqrt it to get the estimated loss. This means that the incorrect predictions are around off by that RMSE.
+
+$R^2$ , the coefficient of determination, can also be calculated which tells us the correlation between $x$ and $y^2$.
+- It gives a value between 0 and 1
+- 1 = model explains all of the variation in the data
+- Closer to 1 is better
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
 
