@@ -32,6 +32,23 @@ It establishes a relationship between the features (inputs) and label (output).
 	- Linear
 	- Non-Linear
 
+## Splitting the dataset
+
+- Training
+	- Apply the algorithm to this split, to establish the relationship
+- Validation
+	- During training, generate predictions and compare to known
+	- Can be used for model hyper-parameter tuning
+- Test
+
+## Pre-processing
+
+- Transformation
+	- Convert from text to numerical
+- Cleaning
+	- Remove duplicates
+	- Deal with missed values (predict or remove data)
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
 
