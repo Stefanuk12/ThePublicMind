@@ -71,7 +71,8 @@ The parameters are initially random, then the model is repeated with different p
 *why do we square?*
 - removes negatives
 - always $\geq$ 0
-- 
+*how does the model refine the parameters?*
+
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
