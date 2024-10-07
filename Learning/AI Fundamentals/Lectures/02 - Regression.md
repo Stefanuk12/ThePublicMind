@@ -57,6 +57,17 @@ It establishes a relationship between the features (inputs) and label (output).
 - Algorithm -> predictive model
 	- Training an algorithm -> validating the predictive model
 
+## Linear Regression Model
+
+The regressor is $f_0(x) = \theta_0 + \theta_1x$ which is a $y = mx + c$ model.
+- Parameters here are $\theta_0$ and $\theta_1$
+
+To measure the accuracy, we use a loss function. In this case, we use the mean square error:
+$$
+L(\theta_0, \theta_1) = \frac{1}{m}\sum_{i=1}^{m}{(f_\theta(x_i) - y_i)^2}
+$$
+The parameters are initially random, then the model is repeated with different parameters, trying to minimise $L$.
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/02 - Regression|02 - Regression]]**
 
