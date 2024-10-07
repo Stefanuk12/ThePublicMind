@@ -11,7 +11,7 @@ Description:: Measures how inaccurate the model is.
 
 ## Note
 
-The loss function (or residual) measures how inaccurate the model is. For example, the [[Mean Square Error|mean square error]] (MSE).
+The loss function (or residual) measures how inaccurate the model is. For example, the [[Mean Square Error|mean square error]] (MSE). It's the difference between the predicted value and the label.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Loss function|Loss function]]**
