@@ -12,7 +12,8 @@ Description::
 ## Note
 
 - Do not evaluate ideas
-- Ideas 
+- Ideas can be justified
+- Try not to fall into biases / fallacies
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computational Thinking/Home|Computational Thinking]] / **[[Learning/Computational Thinking/Notes/Ideation|Ideation]]**
