@@ -21,6 +21,8 @@ $\in$ = is a member of
 - Order does not matter
 - All unique items, cannot have duplicates
 
+$\emptyset$ or $\{ \}$  = empty set
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/04 - Set Theory|04 - Set Theory]]**
 
