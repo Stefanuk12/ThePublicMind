@@ -28,7 +28,7 @@ xRy = x is related to y using Relation R = R(x, y)
 
 source can = target
 
-identity relation = 
+identity relation = one-to-one relation
 
 above is binary relations, you can have n-ary relations
 
