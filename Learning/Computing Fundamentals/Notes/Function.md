@@ -13,9 +13,9 @@ Description:: For each domain member, there is only one target.
 
 A function is where each member of the source [[Set|set]] is only used once **or** not at all. In other words, for each domain member, there is only one target.
 
-However, the entire source set could point to only one element in the target set - just not the other way around. It's a one-to-many relationship.
+However, the entire source set could point to only one element in the target set - just not the other way around. It's a many-to-one relationship or a one-to-one relationship.
 
-Therefore, functions $\subset$ [[Relation|relations]] so all functions are relations.
+Therefore, functions are a [[Proper subset|proper subset]] of [[Relation|relations]] so all functions are relations, but not the other way around.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Function|Function]]**
