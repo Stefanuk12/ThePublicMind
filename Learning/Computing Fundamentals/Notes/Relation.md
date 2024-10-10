@@ -13,5 +13,7 @@ Description:: A set of ordered pairs.
 
 A relation is a [[Set|set]] of [[Ordered Pair|ordered pairs]].
 
+It can be denoted like xRy or $R(x, y)$ which both mean that $x$ is related to $y$, using relation $R$.
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Relation|Relation]]**
