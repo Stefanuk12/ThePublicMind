@@ -21,6 +21,17 @@ Range = set of members in the target set which get used
 
 `x` = cross product = cartesian product
 
+source set = set of departure
+target set = set of destination = codomain
+
+xRy = x is related to y using Relation R = R(x, y)
+
+source can = target
+
+identity relation = 
+
+above is binary relations, you can have n-ary relations
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/05 - Relations and functions|05 - Relations and functions]]**
 
