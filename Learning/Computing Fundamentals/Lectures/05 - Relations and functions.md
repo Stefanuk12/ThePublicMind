@@ -19,6 +19,8 @@ Relation = set of ordered pairs
 Domain = set of members in source set which get used
 Range = set of members in the target set which get used
 
+`x` = cross product = cartesian product
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/05 - Relations and functions|05 - Relations and functions]]**
 
