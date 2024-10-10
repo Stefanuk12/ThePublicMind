@@ -36,8 +36,8 @@ functions $\subset$ relations, all functions are relations
 
 functions = each member of the source set is only used once or not at all = for each domain member, only one target
 
-total functions = all members in source set are used
-partial function = not all members in source are used = $Domain()
+total functions = all members in source set are used = Domain(Function) = source
+partial function = not all members in source are used = Domain(Function) $\subset$ source
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/05 - Relations and functions|05 - Relations and functions]]**
