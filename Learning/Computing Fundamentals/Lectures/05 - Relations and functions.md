@@ -34,7 +34,10 @@ above is binary relations, you can have n-ary relations
 
 functions $\subset$ relations, all functions are relations
 
-special functions = each mmber of thte soruce set is only used o
+functions = each member of the source set is only used once or not at all = for each domain member, only one target
+
+total functions = all members in source set are used
+partial function = not all members in source are used = $Domain()
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/05 - Relations and functions|05 - Relations and functions]]**
