@@ -11,7 +11,7 @@ Description:: A set of ordered pairs.
 
 ## Note
 
-A relation is a set of [[Ordered Pair|ordered pairs]].
+A relation is a [[Set|set]] of [[Ordered Pair|ordered pairs]].
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Relation|Relation]]**

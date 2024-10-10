@@ -7,11 +7,11 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Set union|Set union]]**
 # Set union
 **Overview**
-Description:: 
+Description:: Combination of two sets, with no duplicates.
 
 ## Note
 
-The union ($\cup$) of tw
+The union ($\cup$) of two [[Set|sets]] combines both of the sets' elements, removing duplicates.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Set union|Set union]]**
