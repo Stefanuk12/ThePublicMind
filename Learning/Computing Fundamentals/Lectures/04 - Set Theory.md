@@ -13,7 +13,7 @@ Link::
 ## Section 1
 
 - Listing all the members of a set is called: enumerating
-- An item is a set is called an: element
+- An item is a set is called an: element or member
 
 $\in$ = is a member of
 

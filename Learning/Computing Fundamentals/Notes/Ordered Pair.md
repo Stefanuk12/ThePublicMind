@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Ordered Pair|Ordered Pair]]**
 # Ordered Pair
 **Overview**
-Description:: 
+Description:: A connection between the source and target.
 
 ## Note
 

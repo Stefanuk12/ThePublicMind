@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Notes/Relation|Relation]]**
 # Relation
 **Overview**
-Description:: 
+Description:: A set of ordered pairs.
 
 ## Note
 
