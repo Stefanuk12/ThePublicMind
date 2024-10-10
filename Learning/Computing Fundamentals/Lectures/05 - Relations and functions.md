@@ -32,6 +32,10 @@ identity relation =
 
 above is binary relations, you can have n-ary relations
 
+functions $\subset$ relations, all functions are relations
+
+special functions = each mmber of thte soruce set is only used o
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/05 - Relations and functions|05 - Relations and functions]]**
 
