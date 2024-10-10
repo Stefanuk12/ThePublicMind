@@ -27,7 +27,8 @@ $\cup$ = combine the two sets, removing duplicates
 $\cap$ = get the common elements in both sets
 \\ = all elements in the first set that is not in the second
 $\subset$ = all element in the first set are in the second **and** the second has other stuff
-$\subseteq$ 
+$\subseteq$ = same as $\subset$ but the second requirement isn't needed
+$\#$ = amount of elements
  
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/Computing Fundamentals/Home|Computing Fundamentals]] / **[[Learning/Computing Fundamentals/Lectures/04 - Set Theory|04 - Set Theory]]**
