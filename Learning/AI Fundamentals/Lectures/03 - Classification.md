@@ -62,7 +62,14 @@ aka large margin classifier
 
 1. Find a decision boundary that is equidistant to each category (highest margin)
 
-## Mod
+## Confusion matrix
+
+Compare actual and predicted class: true positive, false negative, false positive, true negative.
+
+Accuracy = % of correct classifications = (TP + TN) / All
+Error rate = 1 - accuracy or (FP + FN) / All
+
+Precision = 
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
