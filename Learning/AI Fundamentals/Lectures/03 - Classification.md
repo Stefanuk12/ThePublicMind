@@ -69,7 +69,11 @@ Compare actual and predicted class: true positive, false negative, false positiv
 Accuracy = % of correct classifications = (TP + TN) / All
 Error rate = 1 - accuracy or (FP + FN) / All
 
-Precision = 
+Precision = % of positive that are actual positive, only looks at positive = TP / (TP + FP)
+Recall = true positive rate, includes all data = TP / (TP + FN)
+F-measure = mean of precision and recall = 2P * R / (P + R)
+
+
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
