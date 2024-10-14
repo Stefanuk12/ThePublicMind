@@ -18,7 +18,7 @@ A confusion matrix can be used to evaluate a [[Classification|classification]] m
 | True             | True Positive (TP)  | False Negative (FN) |
 | False            | False Positive (FP) | True Negative (TN)  |
 
-The accuracy, the percentage of correct classifications, can be calculated using $(TP + TN)
+The accuracy, the percentage of correct classifications, can be calculated using $\frac{\text{TP} + \text{TN}}{\text{All}}$. From that, the error rate can be calculated by doing $1 - \text{accuracy}$ or $\frac{\text{FP} + \text{FN}}{\text{All}}$.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Confusion matrix|Confusion matrix]]**
