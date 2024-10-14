@@ -20,6 +20,17 @@ Multi-class: more than 2 mutually exclusive categories
 
 Deployment goal is to make the model generalised so it works on most data.
 
+## Logistic Regression
+
+- Used for classification
+
+Assumes a sigmoid function that outputs a number from 0 to 1.
+$$
+\text{sig}(t) = \frac{1}{1 + e^{-t}}
+$$ 
+1. Apply linear regression
+2. Apply sigmoid function
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
 
