@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Sigmoid function|Sigmoid function]]**
 # Sigmoid function
 **Overview**
-Description:: A functoin 
+Description:: A function that outputs a number from 0 to 1, always.
 
 ## Note
 
