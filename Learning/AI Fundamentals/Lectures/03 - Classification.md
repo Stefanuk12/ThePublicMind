@@ -57,6 +57,13 @@ If $k$ is too small = sensitive to noise
 If $k$ too large = include points from other classes
 Choose an odd number for $k$ to eliminate ties
 
+## Support Vector Machine
+aka large margin classifier
+
+1. Find a decision boundary that is equidistant to each category (highest margin)
+
+## Mod
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
 
