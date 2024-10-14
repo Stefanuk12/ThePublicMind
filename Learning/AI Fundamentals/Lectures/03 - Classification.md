@@ -28,8 +28,10 @@ Assumes a sigmoid function that outputs a number from 0 to 1.
 $$
 \text{sig}(t) = \frac{1}{1 + e^{-t}}
 $$ 
-1. Apply linear regression
-2. Apply sigmoid function
+1. Apply linear regression, $f_\theta(x)$
+2. Apply sigmoid function from the result of step 1, $\text{sig}(f_\theta(x)$)
+
+Returns the probability of it fitting into one category.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
