@@ -39,6 +39,11 @@ Keep of splitting from the root until the "leaf" (the categories) is found. Each
 
 Each internal node is an *attribute*.
 
+## Random Forest
+
+- Set of decision trees
+- Random sampling in data -> random sampling in features
+
 *information gain* is used to select which feature to start off with and select the highest.
 
 ---
