@@ -73,7 +73,7 @@ Precision = % of positive that are actual positive, only looks at positive = TP 
 Recall = true positive rate, includes all data = TP / (TP + FN)
 F-measure = mean of precision and recall = 2P * R / (P + R)
 
-
+*why is F-measure doubled*
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
