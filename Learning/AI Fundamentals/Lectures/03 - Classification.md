@@ -15,6 +15,9 @@ Link::
 - To predict the correct label (class), instead of the value
 - Type: Binary and Multi-Class Classification
 
+Binary: only 2 mutually exclusive categories
+Multi-class: more than 2 mutually exclusive categories
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
 
