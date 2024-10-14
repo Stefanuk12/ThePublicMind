@@ -35,7 +35,9 @@ Returns the probability of it fitting into one category. Repeated for each class
 
 ## Decision Trees
 
-Keep of splitting from the root until the "leaf" is found by using a rule / if condition.
+Keep of splitting from the root until the "leaf" (the categories) is found. Each split results in a rule / if condition to go either left or right.
+
+*informaton gain* is used to select which feature to start off with (hig)
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
