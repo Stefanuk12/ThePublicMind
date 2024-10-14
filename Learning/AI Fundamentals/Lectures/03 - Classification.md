@@ -44,9 +44,18 @@ Each internal node is an *attribute*.
 - Set of decision trees
 - Random sampling in data -> random sampling in features to select from
 - Attempt to reduce bias
-- Select the most favourable decision via voting
+- Select the most favourable decision for the category via voting
 
 *information gain* is used to select which feature to start off with and select the highest.
+
+## k Nearest Neighbour
+
+Find the categories of neighbours and select the most common.
+
+$k$ = distance
+If $k$ is too small = sensitive to noise
+If $k$ too large = include points from other classes
+Choose an odd number for $k$ to eliminate ties
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
