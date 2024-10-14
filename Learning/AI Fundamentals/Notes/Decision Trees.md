@@ -15,5 +15,7 @@ Decision trees is a [[Classification|classification]] model that can be used bot
 
 The output produces a binary tree where each internal node is an attribute and the leaf nodes represent the classes. Each fork invokes a condition which will send the data either left or right.
 
+The root node is a feature and is decided based upon [[Information gain|information gain]]. The feature with the highest information gain is used.
+
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Decision Trees|Decision Trees]]**
