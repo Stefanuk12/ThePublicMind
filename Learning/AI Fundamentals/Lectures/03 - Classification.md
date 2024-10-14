@@ -42,7 +42,9 @@ Each internal node is an *attribute*.
 ## Random Forest
 
 - Set of decision trees
-- Random sampling in data -> random sampling in features
+- Random sampling in data -> random sampling in features to select from
+- Attempt to reduce bias
+- Select the most favourable decision via voting
 
 *information gain* is used to select which feature to start off with and select the highest.
 
