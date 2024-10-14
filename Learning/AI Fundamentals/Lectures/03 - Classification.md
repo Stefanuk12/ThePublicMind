@@ -7,7 +7,7 @@ tags: course lecture
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
 # 03 - Classification
 **Overview**
-Description:: 
+Description:: Predicting labels, rather than values, and other regression models.
 Link:: 
 
 ## Section 1
