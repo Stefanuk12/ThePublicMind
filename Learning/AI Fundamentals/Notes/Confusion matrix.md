@@ -1,0 +1,24 @@
+---
+date_created: 2024-10-14
+date_modified: 2024-10-14
+document_type: course-note
+tags: course course-note
+---
+[[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Confusion matrix|Confusion matrix]]**
+# Confusion matrix
+**Overview**
+Description:: Used for evaluating classification models.
+
+## Note
+
+A confusion matrix can be used to evaluate a [[Classification|classification]] model. It compares what the actual class against the predicted class.
+
+| Actual/Predicted | True                | False               |
+| ---------------- | ------------------- | ------------------- |
+| True             | True Positive (TP)  | False Negative (FN) |
+| False            | False Positive (FP) | True Negative (TN)  |
+
+The accuracy, the percentage of correct classifications, can be calculated using $(TP + TN)
+
+---
+[[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Confusion matrix|Confusion matrix]]**

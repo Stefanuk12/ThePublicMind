@@ -7,11 +7,11 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Support Vector Machine|Support Vector Machine]]**
 # Support Vector Machine
 **Overview**
-Description:: 
+Description:: Hyperplane-based, margin-maximising, classification model.
 
 ## Note
 
-SVM is a [[Classification|classification]]
+SVM is a [[Classification|classification]] model that draws a hyperplane which maximises the margin (distance) between categories.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Support Vector Machine|Support Vector Machine]]**
