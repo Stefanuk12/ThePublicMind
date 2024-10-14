@@ -24,7 +24,11 @@ The precision, the percentage of positives that are actually positive (only look
 
 The recall, the true positive rate which includes all data = $\frac{\text{TP}}{\text{TP} + \text{FN}}$.
 
-The F-
+The F-measure is the mean of precision and recall. It can be calculated by doing:
+$$
+\frac{2}{\frac{1}{P} + \frac{1}{R}} = 2 \times \frac{PR}{P + R}
+$$
+
 
 
 ---
