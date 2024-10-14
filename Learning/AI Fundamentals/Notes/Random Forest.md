@@ -7,7 +7,7 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Random Forest|Random Forest]]**
 # Random Forest
 **Overview**
-Description:: 
+Description:: A version of decision trees that implements random sampling.
 
 ## Note
 
