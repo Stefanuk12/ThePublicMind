@@ -31,7 +31,11 @@ $$
 1. Apply linear regression, $f_\theta(x)$
 2. Apply sigmoid function from the result of step 1, $\text{sig}(f_\theta(x)$)
 
-Returns the probability of it fitting into one category.
+Returns the probability of it fitting into one category. Repeated for each class and select highest probability.
+
+## Decision Trees
+
+Keep of splitting from the root until the "leaf" is found by using a rule / if condition.
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Lectures/03 - Classification|03 - Classification]]**
