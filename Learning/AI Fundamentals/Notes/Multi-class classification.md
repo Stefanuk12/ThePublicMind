@@ -7,11 +7,11 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Multi-class classification|Multi-class classification]]**
 # Multi-class classification
 **Overview**
-Description:: 
+Description:: 2+ mutually exclusive categories.
 
 ## Note
 
-There are more than two categories during [[ThePublicMind/Learning/AI Fundamentals/Notes/Classification|classification]].
+There are more than two mutually exclusive categories during [[ThePublicMind/Learning/AI Fundamentals/Notes/Classification|classification]].
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Multi-class classification|Multi-class classification]]**

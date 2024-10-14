@@ -7,11 +7,11 @@ tags: course course-note
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Binary Classification|Binary Classification]]**
 # Binary Classification
 **Overview**
-Description:: 
+Description:: Only two mutually exclusive categories.
 
 ## Note
 
-There are only two categories during [[ThePublicMind/Learning/AI Fundamentals/Notes/Classification|classification]].
+There are only two mutually exclusive categories during [[ThePublicMind/Learning/AI Fundamentals/Notes/Classification|classification]].
 
 ---
 [[Learning/Learning Dashboard|Learning Dashboard]] / [[Learning/AI Fundamentals/Home|AI Fundamentals]] / **[[Learning/AI Fundamentals/Notes/Binary Classification|Binary Classification]]**
